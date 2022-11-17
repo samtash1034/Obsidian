@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hahow-Linux/L6 Linux 的帳號、群組與權限.md",
+                "file": "Spring Security/L1.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hahow-Linux/L6 Linux 的帳號、群組與權限.md",
+                "file": "Spring Security/L1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hahow-Linux/L6 Linux 的帳號、群組與權限.md",
+                "file": "Spring Security/L1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hahow-Linux/L6 Linux 的帳號、群組與權限.md"
+                "file": "Spring Security/L1.md"
               }
             }
           }
@@ -160,17 +160,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c650c4cff01892fd",
+  "active": "7a4918172bf9c64f",
   "lastOpenFiles": [
+    "hahow-Linux/L6 Linux 的帳號、群組與權限.md",
     "hahow-Linux/L11 系統管理實務.md",
     "hahow-Linux/L10  系統服務與網頁.md",
     "hahow-Linux/L9  軟體套件 RPM 查詢 query.md",
     "hahow-Linux/Linux 筆記.md",
     "chgrp xxx群組 project/：改變群組權限.md",
-    "hahow-Linux/L6 Linux 的帳號、群組與權限.md",
     "備忘錄/筆記連結.md",
     "備忘錄/Obsidian 教學.md",
     "2022-11-15.md",
-    "Spring Security/未命名.md"
+    "Spring Security/L1.md"
   ]
 }
