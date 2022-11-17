@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "80e280d115f7570c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6bb1bea50dbf658",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94b4c76cc8f63710",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "7a4918172bf9c64f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hahow-Linux/L6 Linux 的帳號、群組與權限.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8719dcf5f5343c57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hahow-Linux/Linux 筆記.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8971e5e33311d39",
+    "type": "split",
+    "children": [
+      {
+        "id": "6526a6706f4e1b59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c650c4cff01892fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e36942f0825f1002",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9da1e83441b5cd89",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1a606d950663613b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fea86a393c3fbe35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f8f38f95e3992c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "hahow-Linux/L6 Linux 的帳號、群組與權限.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03d35ef62ead0a8f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "hahow-Linux/L6 Linux 的帳號、群組與權限.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1e06f98439342fff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "988d66611ebdcc98",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "hahow-Linux/L6 Linux 的帳號、群組與權限.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c650c4cff01892fd",
+  "lastOpenFiles": [
+    "hahow-Linux/L11 系統管理實務.md",
+    "hahow-Linux/L10  系統服務與網頁.md",
+    "hahow-Linux/L9  軟體套件 RPM 查詢 query.md",
+    "hahow-Linux/Linux 筆記.md",
+    "chgrp xxx群組 project/：改變群組權限.md",
+    "hahow-Linux/L6 Linux 的帳號、群組與權限.md",
+    "備忘錄/筆記連結.md",
+    "備忘錄/Obsidian 教學.md",
+    "2022-11-15.md",
+    "Spring Security/未命名.md"
+  ]
+}
